@@ -1,3 +1,5 @@
+data/input
+.DS_Store
 !.envrc
 /data
 /datasets

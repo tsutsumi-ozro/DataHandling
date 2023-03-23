@@ -15,6 +15,10 @@ plotly = "^5.11.0"
 jupyter = "^1.0.0"
 ipykernel = "^6.21.1"
 lightgbm = "^3.3.5"
+polars = "^0.16.14"
+kaggle = "^1.5.13"
+squarify = "^0.4.3"
+pywaffle = "^1.1.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "5.0.4"
