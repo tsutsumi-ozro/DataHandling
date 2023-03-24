@@ -7,7 +7,7 @@ authors = ["Your Name <you@example.com>"]
 [tool.poetry.dependencies]
 python = "^3.10"
 pandas = "^1.5.2"
-numpy = "^1.24.1"
+numpy = "1.23.3"
 scikit-learn = "^1.2.0"
 matplotlib = "^3.6.2"
 seaborn = "^0.12.2"
@@ -19,6 +19,8 @@ polars = "^0.16.14"
 kaggle = "^1.5.13"
 squarify = "^0.4.3"
 pywaffle = "^1.1.0"
+llvmlite = "^0.39.1"
+shap = "^0.41.0"
 
 [tool.poetry.dev-dependencies]
 flake8 = "5.0.4"
