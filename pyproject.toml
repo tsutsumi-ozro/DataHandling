@@ -21,6 +21,7 @@ squarify = "^0.4.3"
 pywaffle = "^1.1.0"
 llvmlite = "^0.39.1"
 shap = "^0.41.0"
+lime = "^0.2.0.1"
 
 [tool.poetry.dev-dependencies]
 flake8 = "5.0.4"
